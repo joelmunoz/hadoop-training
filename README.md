@@ -1,5 +1,5 @@
-Hadoop
-======
+Hadoop Training
+===============
 
 This project has a only purpose build my foundation in the use
 of Hadoop and MapReduce in single-server and multi-server. All
